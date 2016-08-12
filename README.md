@@ -1,0 +1,2 @@
+# WeakAuras
+Weakauras by Kashbel
